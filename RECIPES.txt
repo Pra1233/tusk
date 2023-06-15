@@ -7,7 +7,7 @@ Papad
 CAKE
 CHOCLATE
 .....
-PIZZA
+PIZZA.
 PASTA
 PEANUT
 ............................................
